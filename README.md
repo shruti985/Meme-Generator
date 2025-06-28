@@ -1,3 +1,42 @@
+# Meme Generator
+
+A web application to browse, edit, and create memes using a public API. Built with React.
+
+## Features
+- Fetches meme templates from an external API
+- Displays meme names and images
+- Allows users to add multiple draggable text elements on memes
+- Double-click to edit text inline
+- React Router for navigation between meme list and editor
+- Download the final meme image
+
+## Technologies Used
+- React
+- JavaScript
+- React Router
+- react-draggable
+- HTML & CSS
+
+## Installation
+
+1. **Clone the repository**
+       git clone  https://github.com/shruti985/Meme-Generator.git
+2. **Install dependencies**
+       npm install
+3. **Start the development server**
+       npm run dev
+
+## Usage
+- Browse available memes on the main page.
+- Click **Edit** to open the meme editor.
+- Add text, drag it to desired positions, and edit it by double-clicking.
+- Save your meme when finished.
+
+## License
+This project is licensed under the MIT License.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
